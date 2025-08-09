@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+}
+
+.logo{
+    font-size: 40px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.list {
+  font-size: 20px;
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  padding: 40px;
+}
+
+.name {
+  font-size: 40px;
+  line-height: 1.2;
+  color: darkgrey;
+}
+
+.work {
+    color: dimgray;
+}
+
+.component:hover {
+    color: darkgray;
+    text-decoration: underline;
+    transition:ease-out;
+}
+
+.about {
+    font-size: 17px;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+
+.card-container {
+    
+}
+
+.image-container {
+    width: 100%;
+    height: 200px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    align-items: center;
+    display: flex;
+    align-content: center;
+}
+
+.upper-container {
+    background-color: yellow;
+    padding: 10px;
+
+}
